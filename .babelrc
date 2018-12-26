@@ -1,0 +1,7 @@
+{
+  "presets": [ 
+    // "es2015"
+    "env", // 目前官方推荐使用 babel-preset-env
+    "react" 
+  ]
+}

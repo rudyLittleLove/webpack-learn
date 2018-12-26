@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+  color: olivedrab;
+}
+.img {
+  background-image: url('../images/wolf.jpg');
+  /* 测试postcss-loader是否添加前缀 */
+  user-select: none; 
+  width: 500px;
+  height: 400px;
+  background-size: 100% auto;
+}
+.img > img {
+  width: 100px;
+  height: auto;
+}
+
+.blue {
+  color: red;
+}
+.asdfjlasgdhasd {
+  color: blue;
+}

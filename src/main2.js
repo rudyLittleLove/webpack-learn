@@ -1,0 +1,1 @@
+document.getElementById('study').innerText = '我是 main2.js'
